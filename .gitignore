@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+notes.json
+conversation_history.json
+study_history.json
