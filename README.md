@@ -1,6 +1,6 @@
 # Personal Study Assistant
 
-An AI-powered study assistant built with Python. The application helps students study, take notes, practice questions, and track their study progress.
+An AI powered study assistant built with Python. The application helps students study, take notes, practice questions, and track their study progress.
 
 ## Features
 
@@ -11,7 +11,7 @@ An AI-powered study assistant built with Python. The application helps students 
 - Get explanations for answers
 - Create, view, and delete notes
 - View conversation history
-- AI-powered Study Mode
+- AI powered Study Mode
 - Interactive practice questions
 - Automatic scoring
 - Study progress/history tracking
@@ -37,4 +37,4 @@ The application also saves study information locally so users can view their pre
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/BigNasty2900/personal-study-assistant.git
