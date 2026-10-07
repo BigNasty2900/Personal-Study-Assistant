@@ -2,10 +2,7 @@ import streamlit as st
 import os
 import json
 import random
-from dotenv import load_dotenv
 from openai import OpenAI
-
-load_dotenv()
 
 # --------------------------------------------------
 # SETUP
