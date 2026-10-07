@@ -2,7 +2,7 @@
 
 ## ✨Live Demo✨
 
-[Try the personal Study Assistant](https://j-y-study-buddy-assistant.streamlit.app/)
+[Try the personal Study Assistant](https://my-study-buddy-assistant.streamlit.app/)
 
 AI powered Study Buddy built by me integrating OpenAI and Streamlit.
 
