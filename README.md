@@ -1,6 +1,12 @@
 # Personal Study Assistant
 
-An AI powered study assistant built with Python. The application helps students study, take notes, practice questions, and track their study progress.
+## ✨Live Demo✨
+
+[Try the personal Study Assistant](https://j-y-study-buddy-assistant.streamlit.app/)
+
+AI powered Study Buddy built by me integrating OpenAI and Streamlit.
+
+Built with Python, The application helps students study, take notes, practice questions, and track their study progress.
 
 ## Features
 
