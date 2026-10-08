@@ -29,6 +29,7 @@ Built with Python, The application helps students study, take notes, practice qu
 - OpenAI API
 - JSON
 - python-dotenv
+- Streamlit
 
 ## How It Works
 
