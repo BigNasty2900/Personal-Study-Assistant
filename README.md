@@ -38,7 +38,7 @@ Study Mode allows the user to enter a topic, receive an AI-generated lesson, ans
 
 The application also saves study information locally so users can view their previous study sessions.
 
-## Demo
+## Screenshot
 
 ![Personal Study Assistant](study_assistant_demo.png)
 
